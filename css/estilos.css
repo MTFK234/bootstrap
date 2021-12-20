@@ -1,0 +1,11 @@
+.fondo_morado{
+    background-color: violet;
+}
+.texto_morado{
+    color: darkviolet;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin: 1em;
+}
